@@ -13,17 +13,17 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+This is an example exercise to test the potential of DC.
 
 `@instructions`
-
+print a statement called "Hello, World!"
 
 `@hint`
-
+use the print() statement and pass a string
 
 `@pre_exercise_code`
 ```{python}
-
+print("...statement...")
 ```
 
 `@sample_code`
@@ -33,7 +33,7 @@ This is an example exercise.
 
 `@solution`
 ```{python}
-
+print("Hello, World!")
 ```
 
 `@sct`
